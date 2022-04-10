@@ -405,6 +405,8 @@ article p {
     }
     .foot-2{
       width: 70%;
+      display: flex;
+      flex-direction: column;
     }
     .namesur{
       display: flex;
